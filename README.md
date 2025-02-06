@@ -2,6 +2,8 @@
 
 This is a personal profile webpage built using HTML and CSS. It features sections for an introduction, skills, education, hobbies, and a contact form. The page also includes a navigation bar and social media links.
 
+![Profile Screenshot](screenshot.png)
+
 ## Features
 - **Fixed Navbar**: A smooth navigation experience with a fixed-position navbar.
 - **Profile Section**: Displays a profile image, name, and short introduction.
